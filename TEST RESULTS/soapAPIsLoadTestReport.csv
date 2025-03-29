@@ -1,0 +1,251 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1742747762209,1408,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,2403,2399,20,20,null,0,87,320
+1742747762293,614,SOAP API-ADD,200,OK,Thread Group 1-1,text,true,,588,590,9,9,http://www.dneonline.com/calculator.asmx,610,0,320
+1742747762908,264,SOAP API-SUBTRACT,200,OK,Thread Group 1-1,text,true,,608,605,13,13,http://www.dneonline.com/calculator.asmx,264,0,0
+1742747763173,265,SOAP API-MULIPLY,200,OK,Thread Group 1-1,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747763439,265,SOAP API-DIVIDE,200,OK,Thread Group 1-1,text,true,,598,599,20,20,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747762362,1358,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-3,,true,,2404,2398,19,19,null,0,3,267
+1742747762363,544,SOAP API-ADD,200,OK,Thread Group 1-3,text,true,,588,589,9,9,http://www.dneonline.com/calculator.asmx,540,0,267
+1742747762908,274,SOAP API-SUBTRACT,200,OK,Thread Group 1-3,text,true,,608,604,13,13,http://www.dneonline.com/calculator.asmx,274,0,0
+1742747763182,266,SOAP API-MULIPLY,200,OK,Thread Group 1-3,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763448,274,SOAP API-DIVIDE,200,OK,Thread Group 1-3,text,true,,598,599,19,19,http://www.dneonline.com/calculator.asmx,274,0,0
+1742747762283,1452,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-2,,true,,2404,2399,18,18,null,0,12,330
+1742747762293,619,SOAP API-ADD,200,OK,Thread Group 1-2,text,true,,587,589,9,9,http://www.dneonline.com/calculator.asmx,619,0,330
+1742747762912,278,SOAP API-SUBTRACT,200,OK,Thread Group 1-2,text,true,,609,605,13,13,http://www.dneonline.com/calculator.asmx,278,0,0
+1742747763191,277,SOAP API-MULIPLY,200,OK,Thread Group 1-2,text,true,,610,605,17,17,http://www.dneonline.com/calculator.asmx,277,0,0
+1742747763469,278,SOAP API-DIVIDE,200,OK,Thread Group 1-2,text,true,,598,600,18,18,http://www.dneonline.com/calculator.asmx,278,0,0
+1742747762442,1343,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-4,,true,,2403,2398,18,18,null,0,5,268
+1742747762443,546,SOAP API-ADD,200,OK,Thread Group 1-4,text,true,,588,590,10,10,http://www.dneonline.com/calculator.asmx,546,0,268
+1742747762990,261,SOAP API-SUBTRACT,200,OK,Thread Group 1-4,text,true,,608,604,14,14,http://www.dneonline.com/calculator.asmx,261,0,0
+1742747763252,276,SOAP API-MULIPLY,200,OK,Thread Group 1-4,text,true,,609,604,17,17,http://www.dneonline.com/calculator.asmx,276,0,0
+1742747763529,260,SOAP API-DIVIDE,200,OK,Thread Group 1-4,text,true,,598,600,18,18,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747762522,1352,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-5,,true,,2403,2397,18,18,null,0,3,272
+1742747762523,551,SOAP API-ADD,200,OK,Thread Group 1-5,text,true,,588,589,11,11,http://www.dneonline.com/calculator.asmx,551,0,272
+1742747763075,269,SOAP API-SUBTRACT,200,OK,Thread Group 1-5,text,true,,608,604,15,15,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747763344,265,SOAP API-MULIPLY,200,OK,Thread Group 1-5,text,true,,609,605,18,18,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747763609,267,SOAP API-DIVIDE,200,OK,Thread Group 1-5,text,true,,598,599,18,18,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747762601,1319,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-6,,true,,2401,2396,17,17,null,0,2,268
+1742747762602,526,SOAP API-ADD,200,OK,Thread Group 1-6,text,true,,587,589,12,12,http://www.dneonline.com/calculator.asmx,525,0,268
+1742747763128,266,SOAP API-SUBTRACT,200,OK,Thread Group 1-6,text,true,,607,604,16,16,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763394,268,SOAP API-MULIPLY,200,OK,Thread Group 1-6,text,true,,609,604,19,19,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747763663,259,SOAP API-DIVIDE,200,OK,Thread Group 1-6,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,259,0,0
+1742747762666,1365,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-7,,true,,2401,2399,18,18,null,0,4,271
+1742747762667,554,SOAP API-ADD,200,OK,Thread Group 1-7,text,true,,588,590,13,13,http://www.dneonline.com/calculator.asmx,554,0,271
+1742747763222,269,SOAP API-SUBTRACT,200,OK,Thread Group 1-7,text,true,,606,604,17,17,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747763492,270,SOAP API-MULIPLY,200,OK,Thread Group 1-7,text,true,,609,605,17,17,http://www.dneonline.com/calculator.asmx,270,0,0
+1742747763763,272,SOAP API-DIVIDE,200,OK,Thread Group 1-7,text,true,,598,600,18,18,http://www.dneonline.com/calculator.asmx,272,0,0
+1742747762746,1353,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-8,,true,,2404,2400,17,17,null,0,3,275
+1742747762746,546,SOAP API-ADD,200,OK,Thread Group 1-8,text,true,,588,590,14,14,http://www.dneonline.com/calculator.asmx,546,0,275
+1742747763293,266,SOAP API-SUBTRACT,200,OK,Thread Group 1-8,text,true,,608,605,18,18,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763560,269,SOAP API-MULIPLY,200,OK,Thread Group 1-8,text,true,,610,606,17,17,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747763829,272,SOAP API-DIVIDE,200,OK,Thread Group 1-8,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,272,0,0
+1742747762919,1271,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-10,,true,,2402,2400,18,18,null,0,4,253
+1742747762841,1349,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-9,,true,,2403,2399,18,18,null,0,4,264
+1742747762919,514,SOAP API-ADD,200,OK,Thread Group 1-10,text,true,,588,590,16,16,http://www.dneonline.com/calculator.asmx,514,0,253
+1742747762842,537,SOAP API-ADD,200,OK,Thread Group 1-9,text,true,,588,589,15,15,http://www.dneonline.com/calculator.asmx,537,0,264
+1742747763434,249,SOAP API-SUBTRACT,200,OK,Thread Group 1-10,text,true,,607,606,19,19,http://www.dneonline.com/calculator.asmx,249,0,0
+1742747763380,282,SOAP API-SUBTRACT,200,OK,Thread Group 1-9,text,true,,608,606,19,19,http://www.dneonline.com/calculator.asmx,282,0,0
+1742747763684,252,SOAP API-MULIPLY,200,OK,Thread Group 1-10,text,true,,609,604,16,16,http://www.dneonline.com/calculator.asmx,252,0,0
+1742747763663,264,SOAP API-MULIPLY,200,OK,Thread Group 1-9,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,264,0,0
+1742747763937,256,SOAP API-DIVIDE,200,OK,Thread Group 1-10,text,true,,598,600,18,18,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747763927,266,SOAP API-DIVIDE,200,OK,Thread Group 1-9,text,true,,598,599,18,18,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747762998,1345,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-11,,true,,2402,2399,18,18,null,0,2,264
+1742747762999,529,SOAP API-ADD,200,OK,Thread Group 1-11,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,529,0,264
+1742747763529,269,SOAP API-SUBTRACT,200,OK,Thread Group 1-11,text,true,,606,606,17,17,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747763798,263,SOAP API-MULIPLY,200,OK,Thread Group 1-11,text,true,,610,605,17,17,http://www.dneonline.com/calculator.asmx,262,0,0
+1742747764061,284,SOAP API-DIVIDE,200,OK,Thread Group 1-11,text,true,,598,599,18,18,http://www.dneonline.com/calculator.asmx,284,0,0
+1742747763077,1289,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-12,,true,,2401,2397,17,17,null,0,3,254
+1742747763078,505,SOAP API-ADD,200,OK,Thread Group 1-12,text,true,,587,589,18,18,http://www.dneonline.com/calculator.asmx,505,0,254
+1742747763584,257,SOAP API-SUBTRACT,200,OK,Thread Group 1-12,text,true,,608,606,17,17,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747763841,260,SOAP API-MULIPLY,200,OK,Thread Group 1-12,text,true,,608,604,17,17,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747764102,267,SOAP API-DIVIDE,200,OK,Thread Group 1-12,text,true,,598,598,17,17,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763156,1289,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-13,,true,,2401,2398,17,17,null,0,2,254
+1742747763157,508,SOAP API-ADD,200,OK,Thread Group 1-13,text,true,,587,588,19,19,http://www.dneonline.com/calculator.asmx,508,0,254
+1742747763665,257,SOAP API-SUBTRACT,200,OK,Thread Group 1-13,text,true,,607,606,17,17,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747763922,258,SOAP API-MULIPLY,200,OK,Thread Group 1-13,text,true,,609,604,17,17,http://www.dneonline.com/calculator.asmx,258,0,0
+1742747764181,266,SOAP API-DIVIDE,200,OK,Thread Group 1-13,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763226,1325,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-14,,true,,2403,2397,17,17,null,0,4,264
+1742747763227,534,SOAP API-ADD,200,OK,Thread Group 1-14,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,534,0,264
+1742747763761,265,SOAP API-SUBTRACT,200,OK,Thread Group 1-14,text,true,,608,606,18,18,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747764027,265,SOAP API-MULIPLY,200,OK,Thread Group 1-14,text,true,,609,604,17,17,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747764293,261,SOAP API-DIVIDE,200,OK,Thread Group 1-14,text,true,,598,598,17,17,http://www.dneonline.com/calculator.asmx,261,0,0
+1742747763306,1305,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-15,,true,,2404,2397,17,17,null,0,1,265
+1742747763306,519,SOAP API-ADD,200,OK,Thread Group 1-15,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,519,0,265
+1742747763825,253,SOAP API-SUBTRACT,200,OK,Thread Group 1-15,text,true,,609,605,17,17,http://www.dneonline.com/calculator.asmx,253,0,0
+1742747764079,266,SOAP API-MULIPLY,200,OK,Thread Group 1-15,text,true,,609,604,18,18,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747764345,267,SOAP API-DIVIDE,200,OK,Thread Group 1-15,text,true,,598,598,17,17,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747763386,1341,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-16,,true,,2403,2400,17,17,null,0,1,274
+1742747763387,535,SOAP API-ADD,200,OK,Thread Group 1-16,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,535,0,274
+1742747763922,272,SOAP API-SUBTRACT,200,OK,Thread Group 1-16,text,true,,607,604,18,18,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747764194,274,SOAP API-MULIPLY,200,OK,Thread Group 1-16,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,274,0,0
+1742747764468,260,SOAP API-DIVIDE,200,OK,Thread Group 1-16,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747763465,1331,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-17,,true,,2399,2397,17,17,null,0,2,263
+1742747763466,527,SOAP API-ADD,200,OK,Thread Group 1-17,text,true,,587,589,17,17,http://www.dneonline.com/calculator.asmx,527,0,263
+1742747763994,273,SOAP API-SUBTRACT,200,OK,Thread Group 1-17,text,true,,606,604,17,17,http://www.dneonline.com/calculator.asmx,273,0,0
+1742747764267,265,SOAP API-MULIPLY,200,OK,Thread Group 1-17,text,true,,608,604,17,17,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747764532,266,SOAP API-DIVIDE,200,OK,Thread Group 1-17,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747763626,1296,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-19,,true,,2404,2398,18,18,null,0,2,253
+1742747763544,1377,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-18,,true,,2404,2396,18,18,null,0,3,270
+1742747763627,503,SOAP API-ADD,200,OK,Thread Group 1-19,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,503,0,253
+1742747763545,556,SOAP API-ADD,200,OK,Thread Group 1-18,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,556,0,270
+1742747764131,257,SOAP API-SUBTRACT,200,OK,Thread Group 1-19,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764102,269,SOAP API-SUBTRACT,200,OK,Thread Group 1-18,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747764388,268,SOAP API-MULIPLY,200,OK,Thread Group 1-19,text,true,,609,604,16,16,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747764371,271,SOAP API-MULIPLY,200,OK,Thread Group 1-18,text,true,,609,604,16,16,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747764656,268,SOAP API-DIVIDE,200,OK,Thread Group 1-19,text,true,,598,599,18,18,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747764643,281,SOAP API-DIVIDE,200,OK,Thread Group 1-18,text,true,,598,598,18,18,http://www.dneonline.com/calculator.asmx,281,0,0
+1742747763705,1354,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-20,,true,,2402,2398,17,17,null,0,2,269
+1742747763705,538,SOAP API-ADD,200,OK,Thread Group 1-20,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,538,0,269
+1742747764243,270,SOAP API-SUBTRACT,200,OK,Thread Group 1-20,text,true,,607,604,17,17,http://www.dneonline.com/calculator.asmx,270,0,0
+1742747764513,271,SOAP API-MULIPLY,200,OK,Thread Group 1-20,text,true,,609,605,17,17,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747764785,275,SOAP API-DIVIDE,200,OK,Thread Group 1-20,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,275,0,0
+1742747763784,1298,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-21,,true,,2404,2401,17,17,null,0,2,262
+1742747763784,525,SOAP API-ADD,200,OK,Thread Group 1-21,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,525,0,262
+1742747764310,255,SOAP API-SUBTRACT,200,OK,Thread Group 1-21,text,true,,608,605,16,16,http://www.dneonline.com/calculator.asmx,255,0,0
+1742747764565,257,SOAP API-MULIPLY,200,OK,Thread Group 1-21,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764822,261,SOAP API-DIVIDE,200,OK,Thread Group 1-21,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,261,0,0
+1742747763865,1314,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-22,,true,,2403,2398,17,17,null,0,2,264
+1742747763866,532,SOAP API-ADD,200,OK,Thread Group 1-22,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,532,0,264
+1742747764398,258,SOAP API-SUBTRACT,200,OK,Thread Group 1-22,text,true,,608,605,16,16,http://www.dneonline.com/calculator.asmx,258,0,0
+1742747764656,268,SOAP API-MULIPLY,200,OK,Thread Group 1-22,text,true,,609,605,18,18,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747764925,256,SOAP API-DIVIDE,200,OK,Thread Group 1-22,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747763946,1328,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-23,,true,,2403,2398,17,17,null,0,4,278
+1742747763946,538,SOAP API-ADD,200,OK,Thread Group 1-23,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,538,0,278
+1742747764485,259,SOAP API-SUBTRACT,200,OK,Thread Group 1-23,text,true,,607,605,16,16,http://www.dneonline.com/calculator.asmx,259,0,0
+1742747764745,272,SOAP API-MULIPLY,200,OK,Thread Group 1-23,text,true,,609,605,17,17,http://www.dneonline.com/calculator.asmx,272,0,0
+1742747765019,259,SOAP API-DIVIDE,200,OK,Thread Group 1-23,text,true,,599,599,17,17,http://www.dneonline.com/calculator.asmx,259,0,0
+1742747764024,1268,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-24,,true,,2400,2396,16,16,null,0,3,252
+1742747764025,507,SOAP API-ADD,200,OK,Thread Group 1-24,text,true,,587,589,17,17,http://www.dneonline.com/calculator.asmx,507,0,252
+1742747764532,252,SOAP API-SUBTRACT,200,OK,Thread Group 1-24,text,true,,607,605,17,17,http://www.dneonline.com/calculator.asmx,252,0,0
+1742747764785,259,SOAP API-MULIPLY,200,OK,Thread Group 1-24,text,true,,608,604,17,17,http://www.dneonline.com/calculator.asmx,259,0,0
+1742747765045,250,SOAP API-DIVIDE,200,OK,Thread Group 1-24,text,true,,598,598,16,16,http://www.dneonline.com/calculator.asmx,250,0,0
+1742747764185,1280,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-26,,true,,2402,2398,18,18,null,0,8,256
+1742747764192,513,SOAP API-ADD,200,OK,Thread Group 1-26,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,513,0,256
+1742747764705,257,SOAP API-SUBTRACT,200,OK,Thread Group 1-26,text,true,,607,605,16,16,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764962,255,SOAP API-MULIPLY,200,OK,Thread Group 1-26,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,255,0,0
+1742747765218,255,SOAP API-DIVIDE,200,OK,Thread Group 1-26,text,true,,598,598,18,18,http://www.dneonline.com/calculator.asmx,255,0,0
+1742747764105,1386,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-25,,true,,2404,2400,17,17,null,0,3,280
+1742747764106,557,SOAP API-ADD,200,OK,Thread Group 1-25,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,557,0,280
+1742747764664,282,SOAP API-SUBTRACT,200,OK,Thread Group 1-25,text,true,,608,606,16,16,http://www.dneonline.com/calculator.asmx,282,0,0
+1742747764946,273,SOAP API-MULIPLY,200,OK,Thread Group 1-25,text,true,,610,605,16,16,http://www.dneonline.com/calculator.asmx,273,0,0
+1742747765220,274,SOAP API-DIVIDE,200,OK,Thread Group 1-25,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,274,0,0
+1742747764264,1295,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-27,,true,,2402,2399,17,17,null,0,3,257
+1742747764264,514,SOAP API-ADD,200,OK,Thread Group 1-27,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,514,0,257
+1742747764779,267,SOAP API-SUBTRACT,200,OK,Thread Group 1-27,text,true,,607,606,17,17,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747765047,257,SOAP API-MULIPLY,200,OK,Thread Group 1-27,text,true,,609,604,15,15,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747765304,257,SOAP API-DIVIDE,200,OK,Thread Group 1-27,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764424,1306,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-29,,true,,2403,2398,18,18,null,0,4,262
+1742747764425,525,SOAP API-ADD,200,OK,Thread Group 1-29,text,true,,588,590,16,16,http://www.dneonline.com/calculator.asmx,525,0,262
+1742747764951,263,SOAP API-SUBTRACT,200,OK,Thread Group 1-29,text,true,,608,604,16,16,http://www.dneonline.com/calculator.asmx,263,0,0
+1742747765215,258,SOAP API-MULIPLY,200,OK,Thread Group 1-29,text,true,,609,605,18,18,http://www.dneonline.com/calculator.asmx,258,0,0
+1742747765473,260,SOAP API-DIVIDE,200,OK,Thread Group 1-29,text,true,,598,599,18,18,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747764344,1416,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-28,,true,,2403,2401,17,17,null,0,2,283
+1742747764344,580,SOAP API-ADD,200,OK,Thread Group 1-28,text,true,,588,590,18,18,http://www.dneonline.com/calculator.asmx,580,0,283
+1742747764925,286,SOAP API-SUBTRACT,200,OK,Thread Group 1-28,text,true,,607,606,16,16,http://www.dneonline.com/calculator.asmx,286,0,0
+1742747765212,279,SOAP API-MULIPLY,200,OK,Thread Group 1-28,text,true,,610,606,17,17,http://www.dneonline.com/calculator.asmx,278,0,0
+1742747765491,271,SOAP API-DIVIDE,200,OK,Thread Group 1-28,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747764584,1283,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-31,,true,,2402,2398,18,18,null,0,3,254
+1742747764585,515,SOAP API-ADD,200,OK,Thread Group 1-31,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,515,0,254
+1742747765101,257,SOAP API-SUBTRACT,200,OK,Thread Group 1-31,text,true,,607,604,16,16,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747765358,256,SOAP API-MULIPLY,200,OK,Thread Group 1-31,text,true,,609,605,16,16,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747765615,255,SOAP API-DIVIDE,200,OK,Thread Group 1-31,text,true,,598,600,18,18,http://www.dneonline.com/calculator.asmx,255,0,0
+1742747764504,1378,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-30,,true,,2403,2400,17,17,null,0,2,272
+1742747764504,545,SOAP API-ADD,200,OK,Thread Group 1-30,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,545,0,272
+1742747765050,278,SOAP API-SUBTRACT,200,OK,Thread Group 1-30,text,true,,607,604,16,16,http://www.dneonline.com/calculator.asmx,278,0,0
+1742747765328,279,SOAP API-MULIPLY,200,OK,Thread Group 1-30,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,279,0,0
+1742747765608,276,SOAP API-DIVIDE,200,OK,Thread Group 1-30,text,true,,598,600,17,17,http://www.dneonline.com/calculator.asmx,276,0,0
+1742747764664,1357,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-32,,true,,2404,2397,17,17,null,0,2,266
+1742747764664,547,SOAP API-ADD,200,OK,Thread Group 1-32,text,true,,588,590,16,16,http://www.dneonline.com/calculator.asmx,547,0,266
+1742747765212,265,SOAP API-SUBTRACT,200,OK,Thread Group 1-32,text,true,,608,604,17,17,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747765477,276,SOAP API-MULIPLY,200,OK,Thread Group 1-32,text,true,,610,605,17,17,http://www.dneonline.com/calculator.asmx,276,0,0
+1742747765754,269,SOAP API-DIVIDE,200,OK,Thread Group 1-32,text,true,,598,598,17,17,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747764746,1281,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-33,,true,,2402,2398,17,17,null,0,1,257
+1742747764746,508,SOAP API-ADD,200,OK,Thread Group 1-33,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,508,0,257
+1742747765254,260,SOAP API-SUBTRACT,200,OK,Thread Group 1-33,text,true,,606,604,16,16,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747765514,256,SOAP API-MULIPLY,200,OK,Thread Group 1-33,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747765770,257,SOAP API-DIVIDE,200,OK,Thread Group 1-33,text,true,,598,598,17,17,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764824,1323,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-34,,true,,2404,2399,17,17,null,0,4,260
+1742747764825,527,SOAP API-ADD,200,OK,Thread Group 1-34,text,true,,588,590,16,16,http://www.dneonline.com/calculator.asmx,527,0,260
+1742747765353,267,SOAP API-SUBTRACT,200,OK,Thread Group 1-34,text,true,,608,605,16,16,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747765621,260,SOAP API-MULIPLY,200,OK,Thread Group 1-34,text,true,,610,605,17,17,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747765882,269,SOAP API-DIVIDE,200,OK,Thread Group 1-34,text,true,,598,599,17,17,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747764905,1289,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-35,,true,,2404,2400,16,16,null,0,0,266
+1742747764905,522,SOAP API-ADD,200,OK,Thread Group 1-35,text,true,,588,590,17,17,http://www.dneonline.com/calculator.asmx,522,0,266
+1742747765427,254,SOAP API-SUBTRACT,200,OK,Thread Group 1-35,text,true,,608,605,17,17,http://www.dneonline.com/calculator.asmx,254,0,0
+1742747765681,256,SOAP API-MULIPLY,200,OK,Thread Group 1-35,text,true,,610,606,16,16,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747765937,257,SOAP API-DIVIDE,200,OK,Thread Group 1-35,text,true,,598,599,16,16,http://www.dneonline.com/calculator.asmx,257,0,0
+1742747764985,1313,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-36,,true,,2403,2397,15,15,null,0,3,265
+1742747764986,528,SOAP API-ADD,200,OK,Thread Group 1-36,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,528,0,265
+1742747765514,256,SOAP API-SUBTRACT,200,OK,Thread Group 1-36,text,true,,607,604,16,16,http://www.dneonline.com/calculator.asmx,256,0,0
+1742747765770,269,SOAP API-MULIPLY,200,OK,Thread Group 1-36,text,true,,610,605,16,16,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747766040,260,SOAP API-DIVIDE,200,OK,Thread Group 1-36,text,true,,598,599,15,15,http://www.dneonline.com/calculator.asmx,260,0,0
+1742747765065,1328,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-37,,true,,2403,2400,14,14,null,0,1,262
+1742747765065,527,SOAP API-ADD,200,OK,Thread Group 1-37,text,true,,588,590,16,16,http://www.dneonline.com/calculator.asmx,527,0,262
+1742747765593,262,SOAP API-SUBTRACT,200,OK,Thread Group 1-37,text,true,,608,606,17,17,http://www.dneonline.com/calculator.asmx,262,0,0
+1742747765855,268,SOAP API-MULIPLY,200,OK,Thread Group 1-37,text,true,,609,605,17,17,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747766123,271,SOAP API-DIVIDE,200,OK,Thread Group 1-37,text,true,,598,599,14,14,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747765144,1287,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-38,,true,,2401,2397,13,13,null,0,1,264
+1742747765144,516,SOAP API-ADD,200,OK,Thread Group 1-38,text,true,,587,589,17,17,http://www.dneonline.com/calculator.asmx,516,0,264
+1742747765661,251,SOAP API-SUBTRACT,200,OK,Thread Group 1-38,text,true,,607,605,16,16,http://www.dneonline.com/calculator.asmx,251,0,0
+1742747765912,261,SOAP API-MULIPLY,200,OK,Thread Group 1-38,text,true,,609,604,16,16,http://www.dneonline.com/calculator.asmx,261,0,0
+1742747766173,259,SOAP API-DIVIDE,200,OK,Thread Group 1-38,text,true,,598,599,13,13,http://www.dneonline.com/calculator.asmx,259,0,0
+1742747765304,1249,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-40,,true,,2402,2397,12,12,null,0,1,253
+1742747765305,507,SOAP API-ADD,200,OK,Thread Group 1-40,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,507,0,253
+1742747765812,246,SOAP API-SUBTRACT,200,OK,Thread Group 1-40,text,true,,607,605,16,16,http://www.dneonline.com/calculator.asmx,246,0,0
+1742747766058,248,SOAP API-MULIPLY,200,OK,Thread Group 1-40,text,true,,609,604,14,14,http://www.dneonline.com/calculator.asmx,248,0,0
+1742747766306,248,SOAP API-DIVIDE,200,OK,Thread Group 1-40,text,true,,598,599,12,12,http://www.dneonline.com/calculator.asmx,248,0,0
+1742747765223,1339,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-39,,true,,2402,2400,11,11,null,0,4,266
+1742747765224,534,SOAP API-ADD,200,OK,Thread Group 1-39,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,534,0,266
+1742747765759,267,SOAP API-SUBTRACT,200,OK,Thread Group 1-39,text,true,,607,606,17,17,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747766027,267,SOAP API-MULIPLY,200,OK,Thread Group 1-39,text,true,,609,605,15,15,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747766294,271,SOAP API-DIVIDE,200,OK,Thread Group 1-39,text,true,,598,600,11,11,http://www.dneonline.com/calculator.asmx,271,0,0
+1742747765386,1334,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-41,,true,,2401,2399,10,10,null,0,0,263
+1742747765386,526,SOAP API-ADD,200,OK,Thread Group 1-41,text,true,,587,589,16,16,http://www.dneonline.com/calculator.asmx,526,0,263
+1742747765912,268,SOAP API-SUBTRACT,200,OK,Thread Group 1-41,text,true,,607,606,16,16,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747766180,277,SOAP API-MULIPLY,200,OK,Thread Group 1-41,text,true,,609,605,12,12,http://www.dneonline.com/calculator.asmx,277,0,0
+1742747766457,263,SOAP API-DIVIDE,200,OK,Thread Group 1-41,text,true,,598,599,10,10,http://www.dneonline.com/calculator.asmx,263,0,0
+1742747765464,1328,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-42,,true,,2402,2398,9,9,null,0,2,267
+1742747765465,534,SOAP API-ADD,200,OK,Thread Group 1-42,text,true,,588,589,17,17,http://www.dneonline.com/calculator.asmx,534,0,267
+1742747765999,264,SOAP API-SUBTRACT,200,OK,Thread Group 1-42,text,true,,607,606,15,15,http://www.dneonline.com/calculator.asmx,264,0,0
+1742747766263,265,SOAP API-MULIPLY,200,OK,Thread Group 1-42,text,true,,609,604,12,12,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747766528,265,SOAP API-DIVIDE,200,OK,Thread Group 1-42,text,true,,598,599,9,9,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747765544,1325,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-43,,true,,2405,2399,8,8,null,0,3,268
+1742747765544,530,SOAP API-ADD,200,OK,Thread Group 1-43,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,530,0,268
+1742747766075,265,SOAP API-SUBTRACT,200,OK,Thread Group 1-43,text,true,,609,605,14,14,http://www.dneonline.com/calculator.asmx,265,0,0
+1742747766341,268,SOAP API-MULIPLY,200,OK,Thread Group 1-43,text,true,,610,605,10,10,http://www.dneonline.com/calculator.asmx,268,0,0
+1742747766610,262,SOAP API-DIVIDE,200,OK,Thread Group 1-43,text,true,,598,600,8,8,http://www.dneonline.com/calculator.asmx,262,0,0
+1742747765624,1340,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-44,,true,,2403,2398,7,7,null,0,2,267
+1742747765625,535,SOAP API-ADD,200,OK,Thread Group 1-44,text,true,,588,589,16,16,http://www.dneonline.com/calculator.asmx,535,0,267
+1742747766160,272,SOAP API-SUBTRACT,200,OK,Thread Group 1-44,text,true,,607,604,13,13,http://www.dneonline.com/calculator.asmx,272,0,0
+1742747766432,269,SOAP API-MULIPLY,200,OK,Thread Group 1-44,text,true,,610,605,10,10,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747766702,264,SOAP API-DIVIDE,200,OK,Thread Group 1-44,text,true,,598,600,7,7,http://www.dneonline.com/calculator.asmx,263,0,0
+1742747765705,1274,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-45,,true,,2403,2396,6,6,null,0,4,270
+1742747765705,523,SOAP API-ADD,200,OK,Thread Group 1-45,text,true,,588,589,15,15,http://www.dneonline.com/calculator.asmx,523,0,270
+1742747766229,255,SOAP API-SUBTRACT,200,OK,Thread Group 1-45,text,true,,608,604,12,12,http://www.dneonline.com/calculator.asmx,255,0,0
+1742747766485,247,SOAP API-MULIPLY,200,OK,Thread Group 1-45,text,true,,609,604,9,9,http://www.dneonline.com/calculator.asmx,247,0,0
+1742747766733,249,SOAP API-DIVIDE,200,OK,Thread Group 1-45,text,true,,598,599,6,6,http://www.dneonline.com/calculator.asmx,249,0,0
+1742747765783,1353,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-46,,true,,2402,2397,5,5,null,0,2,273
+1742747765784,542,SOAP API-ADD,200,OK,Thread Group 1-46,text,true,,587,589,14,14,http://www.dneonline.com/calculator.asmx,542,0,273
+1742747766326,283,SOAP API-SUBTRACT,200,OK,Thread Group 1-46,text,true,,608,605,10,10,http://www.dneonline.com/calculator.asmx,283,0,0
+1742747766610,264,SOAP API-MULIPLY,200,OK,Thread Group 1-46,text,true,,609,604,7,7,http://www.dneonline.com/calculator.asmx,264,0,0
+1742747766874,264,SOAP API-DIVIDE,200,OK,Thread Group 1-46,text,true,,598,599,5,5,http://www.dneonline.com/calculator.asmx,264,0,0
+1742747765865,1287,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-47,,true,,2402,2399,4,4,null,0,4,262
+1742747765868,526,SOAP API-ADD,200,OK,Thread Group 1-47,text,true,,588,589,14,14,http://www.dneonline.com/calculator.asmx,526,0,262
+1742747766394,258,SOAP API-SUBTRACT,200,OK,Thread Group 1-47,text,true,,606,604,10,10,http://www.dneonline.com/calculator.asmx,258,0,0
+1742747766653,250,SOAP API-MULIPLY,200,OK,Thread Group 1-47,text,true,,610,606,7,7,http://www.dneonline.com/calculator.asmx,250,0,0
+1742747766903,253,SOAP API-DIVIDE,200,OK,Thread Group 1-47,text,true,,598,600,4,4,http://www.dneonline.com/calculator.asmx,253,0,0
+1742747765944,1305,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-48,,true,,2402,2397,3,3,null,0,1,257
+1742747765944,514,SOAP API-ADD,200,OK,Thread Group 1-48,text,true,,588,589,12,12,http://www.dneonline.com/calculator.asmx,514,0,257
+1742747766458,262,SOAP API-SUBTRACT,200,OK,Thread Group 1-48,text,true,,607,604,10,10,http://www.dneonline.com/calculator.asmx,262,0,0
+1742747766720,262,SOAP API-MULIPLY,200,OK,Thread Group 1-48,text,true,,609,604,6,6,http://www.dneonline.com/calculator.asmx,262,0,0
+1742747766983,267,SOAP API-DIVIDE,200,OK,Thread Group 1-48,text,true,,598,600,3,3,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747766024,1333,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-49,,true,,2401,2396,2,2,null,0,3,263
+1742747766025,528,SOAP API-ADD,200,OK,Thread Group 1-49,text,true,,587,589,12,12,http://www.dneonline.com/calculator.asmx,528,0,263
+1742747766553,266,SOAP API-SUBTRACT,200,OK,Thread Group 1-49,text,true,,607,604,8,8,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747766820,269,SOAP API-MULIPLY,200,OK,Thread Group 1-49,text,true,,609,605,5,5,http://www.dneonline.com/calculator.asmx,269,0,0
+1742747767090,270,SOAP API-DIVIDE,200,OK,Thread Group 1-49,text,true,,598,598,2,2,http://www.dneonline.com/calculator.asmx,270,0,0
+1742747766104,1354,Transaction Controller,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-50,,true,,2403,2397,1,1,null,0,4,275
+1742747766105,547,SOAP API-ADD,200,OK,Thread Group 1-50,text,true,,588,589,10,10,http://www.dneonline.com/calculator.asmx,547,0,275
+1742747766653,267,SOAP API-SUBTRACT,200,OK,Thread Group 1-50,text,true,,607,604,7,7,http://www.dneonline.com/calculator.asmx,267,0,0
+1742747766920,266,SOAP API-MULIPLY,200,OK,Thread Group 1-50,text,true,,610,605,3,3,http://www.dneonline.com/calculator.asmx,266,0,0
+1742747767187,274,SOAP API-DIVIDE,200,OK,Thread Group 1-50,text,true,,598,599,1,1,http://www.dneonline.com/calculator.asmx,274,0,0

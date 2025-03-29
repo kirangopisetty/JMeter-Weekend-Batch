@@ -1,0 +1,1471 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739721719904,646,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,223,0,80
+1739721720551,252,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,99,0,0
+1739721720804,84,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,80,0,0
+1739721720888,249,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,232,0,0
+1739721721138,197,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,58,0,0
+1739721721336,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,60,0,0
+1739721721410,136,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,133,0,0
+1739721721546,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,56,0,0
+1739721721607,587,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,140,0,0
+1739721722195,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,56,0,0
+1739721722264,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,59,0,0
+1739721722328,56,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,52,0,0
+1739721722385,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,66,0,0
+1739721722468,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,90,0,0
+1739721722568,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,65,0,0
+1739721722635,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,57,0,0
+1739721722694,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,58,0,0
+1739721722774,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,56,0,0
+1739721722848,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,54,0,0
+1739721722907,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,67,0,0
+1739721722976,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,56,0,0
+1739721723058,215,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,117,0,0
+1739721723273,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,64,0,0
+1739721723341,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,59,0,0
+1739721723404,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,63,0,0
+1739721723493,63,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,50,0,0
+1739721723556,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,56,0,0
+1739721723617,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,1,1,https://mindmajix.com/blog,55,0,0
+1739721723682,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,56,0,0
+1739721723756,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,58,0,0
+1739721723828,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,59,0,0
+1739721723888,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721723947,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721723912,181,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,130,0,76
+1739721724021,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,72,0,0
+1739721724107,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721724093,103,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721724166,77,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,73,0,0
+1739721724196,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721724243,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721724260,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721724315,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721724322,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721724392,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721724418,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721724463,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721724491,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721724522,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721724554,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721724601,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721724620,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721724669,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721724691,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721724743,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721724762,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721724809,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721724823,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721724891,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721724886,96,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,72,0,0
+1739721724982,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721724982,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721725060,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721725052,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721725123,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721725128,91,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,86,0,0
+1739721725205,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721725220,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721725283,79,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721725300,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721725362,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721725374,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,68,0,0
+1739721725433,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721725447,78,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,69,0,0
+1739721725511,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721725526,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721725579,79,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721725604,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721725659,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721725691,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721725732,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721725754,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721725823,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721725821,108,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,90,0,0
+1739721725902,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721725930,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721725978,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721725992,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721726062,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721726053,104,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,104,0,0
+1739721726152,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721726158,108,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,84,0,0
+1739721726242,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721726266,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721726307,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721726343,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721726378,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721726403,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721726468,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721726472,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,79,0,0
+1739721726551,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721726566,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721726614,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721726637,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721726675,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721726699,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721726761,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721726766,97,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,76,0,0
+1739721726842,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721726864,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721726906,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721726934,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721726963,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721726996,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721727041,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721727063,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721727112,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721727146,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721727174,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721727223,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721727237,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721727282,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721727310,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721727342,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721727379,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721727418,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721727443,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721727508,120,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,101,0,0
+1739721727493,206,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,198,0,0
+1739721727629,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721727700,77,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,70,0,0
+1739721727712,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721727787,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721727777,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,71,0,0
+1739721727848,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721727864,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721727926,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721727945,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721728000,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721728012,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721728059,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721728071,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721728120,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721728153,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721728197,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721728226,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721728266,89,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,84,0,0
+1739721728291,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721728355,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721728364,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721728419,99,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721728436,94,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,82,0,0
+1739721728531,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721728518,113,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,100,0,0
+1739721728602,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721728631,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721728665,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721728699,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721728745,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721728762,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721728823,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721728845,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721728887,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721728919,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721728949,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721728976,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721729042,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721729027,112,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,99,0,0
+1739721729126,97,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,68,0,0
+1739721729139,90,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,88,0,0
+1739721729223,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721729230,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721729284,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721729292,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721729345,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721729365,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,67,0,0
+1739721729432,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721729445,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721729502,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721729508,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721729564,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721729575,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721729631,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721729664,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721729713,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721729738,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721729787,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721729797,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721729866,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721729932,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721730010,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721729869,243,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,224,0,0
+1739721730093,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721730113,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721730169,85,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,71,0,0
+1739721730186,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,68,0,0
+1739721730255,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721730261,94,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,92,0,0
+1739721730344,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721730355,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721730421,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721730441,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721730499,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721730512,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721730562,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721730640,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721730714,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721730776,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721730571,290,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,283,0,0
+1739721730861,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721730946,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721731019,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721730838,258,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,229,0,0
+1739721731086,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721731097,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721731159,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721731173,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721731239,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721731243,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,72,0,0
+1739721731319,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721731319,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721731388,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721731402,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721731452,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721731481,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721731542,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721731550,83,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,79,0,0
+1739721731622,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721731634,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721731687,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721731714,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721731752,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721731784,90,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,90,0,0
+1739721731825,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721731874,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721731905,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721731941,69,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721731974,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721732011,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721732037,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721732092,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721732125,95,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721732152,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721732220,98,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,85,0,0
+1739721732225,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721732319,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721732319,92,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,92,0,0
+1739721732411,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721732412,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721732474,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721732506,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721732535,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721732579,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721732612,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721732650,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721732684,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721732751,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721732723,127,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,112,0,0
+1739721732812,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721732851,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721732887,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721732922,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721732962,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721732983,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721733020,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721733046,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721733084,71,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721733128,85,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721733155,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721733228,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721733290,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721733353,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721733213,270,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,264,0,0
+1739721733430,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721733483,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721733551,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721733503,155,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,151,0,0
+1739721733634,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721733658,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721733706,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721733730,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721733766,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721733810,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721733824,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721733882,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721733899,64,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,49,0,0
+1739721733946,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721733963,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721734005,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721734027,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721734097,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721734092,106,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,86,0,0
+1739721734198,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721734175,116,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,103,0,0
+1739721734260,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721734291,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721734322,118,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,97,0,0
+1739721734357,90,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,90,0,0
+1739721734447,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721734440,105,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,85,0,0
+1739721734525,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721734545,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721734613,74,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721734615,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,72,0,0
+1739721734687,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721734695,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721734762,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721734789,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,67,0,0
+1739721734849,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721734870,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721734935,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721734939,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,73,0,0
+1739721735013,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721735012,114,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,109,0,0
+1739721735084,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721735126,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721735157,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721735206,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721735218,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,75,0,0
+1739721735289,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721735294,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721735361,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721735380,64,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721735426,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721735444,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,68,0,0
+1739721735504,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721735513,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721735583,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721735579,92,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,89,0,0
+1739721735668,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721735672,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721735737,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721735740,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721735800,83,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,69,0,0
+1739721735820,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721735893,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721735883,102,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,77,0,0
+1739721735960,103,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,91,0,0
+1739721735985,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721736064,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721736067,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721736145,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721736141,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721736204,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721736216,81,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,78,0,0
+1739721736294,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721736297,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721736365,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721736369,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721736430,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721736451,90,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721736496,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721736542,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721736575,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721736606,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721736656,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,50,0,0
+1739721736678,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721736712,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721736761,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721736772,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721736830,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721736847,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721736907,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,70,0,0
+1739721736920,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721736983,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721736988,96,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,90,0,0
+1739721737074,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721737085,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,71,0,0
+1739721737157,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721737174,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721737225,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721737245,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721737296,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721737317,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721737374,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721737381,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,79,0,0
+1739721737460,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721737474,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721737533,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721737554,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721737618,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721737599,100,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,83,0,0
+1739721737682,106,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,75,0,0
+1739721737699,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721737788,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721737788,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721737861,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721737929,56,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721737866,214,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,210,0,0
+1739721737985,130,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,108,0,0
+1739721738080,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721738116,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721738156,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721738191,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721738229,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721738251,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721738295,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721738322,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721738357,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721738393,65,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721738434,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721738459,83,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,79,0,0
+1739721738506,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721738542,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721738565,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721738604,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721738624,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721738675,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721738710,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,76,0,0
+1739721738755,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721738798,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721738816,56,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721738857,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721738873,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721738917,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721738955,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721738998,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721739023,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721739071,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721739085,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721739147,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721739144,82,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,79,0,0
+1739721739220,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721739226,92,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,71,0,0
+1739721739298,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721739318,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721739379,81,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,73,0,0
+1739721739390,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721739460,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721739465,85,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,82,0,0
+1739721739550,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721739626,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721739543,167,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,156,0,0
+1739721739696,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721739710,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721739762,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721739774,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721739830,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721739844,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721739909,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721739926,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721740001,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721739987,129,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,123,0,0
+1739721740064,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721740126,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721740116,91,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,88,0,0
+1739721740207,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721740201,111,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,101,0,0
+1739721740313,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721740302,104,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,91,0,0
+1739721740369,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721740407,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721740436,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721740516,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721740466,129,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,127,0,0
+1739721740593,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721740595,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721740678,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721740657,128,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,123,0,0
+1739721740785,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721740752,163,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,155,0,0
+1739721740860,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721740915,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721740929,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721740975,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721740989,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721741053,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721741059,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,75,0,0
+1739721741128,81,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,78,0,0
+1739721741150,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721741210,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721741228,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721741274,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721741291,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721741360,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721741355,94,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,84,0,0
+1739721741439,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721741449,81,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,77,0,0
+1739721741530,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721741527,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721741596,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721741603,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,78,0,0
+1739721741683,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721741678,98,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,85,0,0
+1739721741760,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721741776,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721741842,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721741841,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721741899,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721741912,81,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,78,0,0
+1739721741993,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721741990,93,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721742084,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721742070,90,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,80,0,0
+1739721742161,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721742142,98,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,95,0,0
+1739721742237,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721742240,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721742297,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721742328,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721742377,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721742397,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721742447,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721742457,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721742506,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721742514,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721742575,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721742596,90,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,76,0,0
+1739721742661,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721742686,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721742730,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721742749,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721742788,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721742820,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721742848,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721742894,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721742928,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721742965,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721743024,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721743008,98,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,90,0,0
+1739721743106,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721743094,115,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,74,0,0
+1739721743168,103,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721743210,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721743272,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721743288,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721743360,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721743355,82,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,79,0,0
+1739721743437,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721743432,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721743501,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721743522,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721743599,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721743584,97,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,87,0,0
+1739721743666,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721743681,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721743742,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721743747,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,79,0,0
+1739721743826,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721743827,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721743898,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721743919,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721743968,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721743992,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721744028,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721744060,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721744104,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721744118,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,76,0,0
+1739721744183,85,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,81,0,0
+1739721744205,101,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,87,0,0
+1739721744269,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,71,0,0
+1739721744307,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721744343,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721744368,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721744416,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721744429,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721744493,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721744518,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721744562,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721744588,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721744622,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721744644,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721744694,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721744705,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721744767,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721744790,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721744836,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721744861,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721744901,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721744924,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721744993,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721744983,105,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,89,0,0
+1739721745073,104,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,88,0,0
+1739721745088,95,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,90,0,0
+1739721745184,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721745178,74,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721745252,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721745248,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721745315,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721745333,84,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,72,0,0
+1739721745405,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721745417,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,76,0,0
+1739721745493,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721745484,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721745562,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721745555,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721745623,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721745642,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721745712,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721745722,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,75,0,0
+1739721745790,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721745800,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721745855,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721745866,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721745916,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721745941,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721745989,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721746014,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721746058,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721746083,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721746123,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721746189,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721746272,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721746144,226,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,208,0,0
+1739721746353,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721746371,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721746415,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721746444,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721746477,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721746505,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721746568,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721746576,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,79,0,0
+1739721746655,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721746671,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721746748,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721746809,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721746722,180,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,179,0,0
+1739721746902,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721746975,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721747043,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721747118,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721746870,349,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,326,0,0
+1739721747186,114,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,97,0,0
+1739721747220,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,80,0,0
+1739721747301,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721747311,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721747372,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721747377,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721747449,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721747442,87,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,84,0,0
+1739721747526,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721747529,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721747599,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721747616,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721747688,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721747674,88,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,85,0,0
+1739721747745,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721747762,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721747819,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721747836,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721747911,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721747897,92,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,83,0,0
+1739721747980,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721747989,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721748062,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721748056,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721748137,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721748120,109,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,95,0,0
+1739721748216,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721748229,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721748287,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,70,0,0
+1739721748298,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721748361,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721748377,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721748435,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721748448,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721748515,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721748531,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721748582,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,69,0,0
+1739721748606,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721748655,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721748668,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721748734,71,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721748729,93,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,80,0,0
+1739721748805,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721748823,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721748883,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721748887,87,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,87,0,0
+1739721748950,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721748974,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721749012,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721749046,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721749091,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721749122,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721749166,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721749184,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721749227,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721749246,71,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721749287,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721749366,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721749434,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721749495,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721749558,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721749317,406,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,387,0,0
+1739721749640,96,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,83,0,0
+1739721749723,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721749736,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721749802,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721749795,77,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,74,0,0
+1739721749865,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721749872,101,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,86,0,0
+1739721749954,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721749973,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721750028,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721750046,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721750101,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721750124,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721750163,71,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721750183,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721750234,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721750263,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721750332,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721750310,91,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,88,0,0
+1739721750398,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,70,0,0
+1739721750401,75,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,71,0,0
+1739721750472,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721750477,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721750562,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721750568,84,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,73,0,0
+1739721750638,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721750653,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721750719,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721750724,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721750787,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721750794,98,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,74,0,0
+1739721750869,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721750892,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721750947,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721750967,88,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,86,0,0
+1739721751019,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,69,0,0
+1739721751055,97,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,92,0,0
+1739721751100,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721751152,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721751173,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721751231,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721751249,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721751308,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721751306,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721751378,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721751377,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721751435,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721751462,96,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,78,0,0
+1739721751518,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721751559,79,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721751587,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721751650,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,48,0,0
+1739721751638,84,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,79,0,0
+1739721751717,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721751722,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,72,0,0
+1739721751812,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721751886,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721751948,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721752009,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721751794,317,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,290,0,0
+1739721752081,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721752112,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,50,0,0
+1739721752154,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721752170,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721752213,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721752235,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721752273,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721752307,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721752355,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721752377,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721752423,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721752440,56,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721752480,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721752496,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721752538,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721752581,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721752612,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721752660,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721752683,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721752718,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721752742,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721752787,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721752806,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721752867,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721752885,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721752949,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,68,0,0
+1739721752961,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721753018,82,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,72,0,0
+1739721753033,91,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,89,0,0
+1739721753100,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721753124,89,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721753189,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721753213,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721753275,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721753290,90,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,88,0,0
+1739721753346,56,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721753380,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721753402,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721753437,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721753477,67,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721753525,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721753544,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721753602,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721753605,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721753666,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721753674,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721753726,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721753758,94,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721753808,67,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721753852,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721753875,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721753909,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721753941,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721753968,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721754008,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721754046,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721754089,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721754114,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721754165,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721754182,85,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,78,0,0
+1739721754235,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721754267,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721754302,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721754344,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721754375,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721754427,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721754450,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721754502,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721754514,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721754578,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721754584,96,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,74,0,0
+1739721754658,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,50,0,0
+1739721754680,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721754726,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721754751,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721754786,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721754816,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721754854,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721754875,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721754942,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,81,0,0
+1739721754959,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,87,0,0
+1739721755042,82,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,82,0,0
+1739721755058,108,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,102,0,0
+1739721755125,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721755166,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721755191,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721755224,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721755279,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721755304,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,80,0,0
+1739721755357,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721755404,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721755413,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721755465,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721755472,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721755533,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721755558,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721755614,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721755639,74,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721755705,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721755713,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721755770,94,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721755780,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721755867,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721755864,102,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,89,0,0
+1739721755941,84,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721755967,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721756025,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721756053,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721756086,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721756121,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721756171,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721756178,97,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,74,0,0
+1739721756252,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,78,0,0
+1739721756275,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721756330,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721756361,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721756397,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721756426,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721756487,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721756492,114,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,96,0,0
+1739721756567,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721756606,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721756631,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721756681,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,75,0,0
+1739721756699,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721756761,100,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,84,0,0
+1739721756793,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721756862,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721756876,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721756942,88,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721756949,84,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,81,0,0
+1739721757030,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721757033,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721757095,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721757115,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721757162,82,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721757196,86,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721757245,84,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721757282,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721757349,68,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721757329,98,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,88,0,0
+1739721757418,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721757427,78,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,72,0,0
+1739721757505,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721757497,99,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,95,0,0
+1739721757597,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721757592,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,75,0,0
+1739721757662,98,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721757684,81,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,76,0,0
+1739721757761,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721757765,77,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,72,0,0
+1739721757837,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721757842,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721757902,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721757923,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721757962,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721758006,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721758036,85,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721758066,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721758121,74,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721758128,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721758195,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721758215,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721758257,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721758286,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721758337,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721758353,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721758417,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721758422,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721758489,86,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,78,0,0
+1739721758513,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,71,0,0
+1739721758575,96,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721758597,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721758671,93,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721758677,90,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,87,0,0
+1739721758764,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721758767,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721758827,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721758852,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721758888,69,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721758923,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721758958,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721758983,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721759027,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721759043,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721759086,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721759124,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721759144,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721759195,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721759229,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721759258,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721759298,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721759321,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721759364,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721759397,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721759429,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721759466,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721759510,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721759531,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721759590,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721759592,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721759652,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721759675,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721759709,69,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,50,0,0
+1739721759755,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721759778,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721759814,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721759880,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721759854,120,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,115,0,0
+1739721759975,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721759956,144,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,126,0,0
+1739721760037,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,72,0,0
+1739721760100,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721760122,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721760167,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721760201,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721760226,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721760264,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721760305,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721760326,68,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,48,0,0
+1739721760374,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721760394,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721760431,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721760495,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721760573,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721760464,186,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,178,0,0
+1739721760651,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721760642,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721760718,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721760713,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721760779,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721760800,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,65,0,0
+1739721760866,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721760883,82,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721760953,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721760965,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721761031,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721761025,91,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,86,0,0
+1739721761116,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,81,0,0
+1739721761106,138,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,66,0,0
+1739721761209,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721761244,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721761286,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721761304,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721761354,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721761368,103,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721761426,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721761472,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721761513,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721761545,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721761589,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721761612,76,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721761648,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721761709,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721761689,110,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721761799,101,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,82,0,0
+1739721761800,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721761900,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721761900,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721761964,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721761972,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721762039,109,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,79,0,0
+1739721762036,113,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721762149,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,73,0,0
+1739721762149,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721762240,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721762240,78,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,73,0,0
+1739721762304,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721762318,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721762380,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721762368,98,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721762465,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721762466,97,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,78,0,0
+1739721762540,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721762564,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721762616,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721762628,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721762680,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721762696,100,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,71,0,0
+1739721762767,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,71,0,0
+1739721762797,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721762856,86,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,86,0,0
+1739721762897,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721762942,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721762962,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721763010,116,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,88,0,0
+1739721763024,106,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721763130,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721763126,104,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,88,0,0
+1739721763230,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721763230,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,68,0,0
+1739721763298,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721763306,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721763377,98,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,74,0,0
+1739721763365,112,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721763478,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721763475,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,78,0,0
+1739721763553,84,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721763566,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721763637,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721763642,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721763708,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721763701,101,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721763799,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,76,0,0
+1739721763803,85,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,50,0,0
+1739721763889,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721763889,68,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721763956,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721763957,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721764019,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721764015,121,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,89,0,0
+1739721764100,92,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,78,0,0
+1739721764136,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721764193,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721764210,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721764254,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721764267,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721764316,102,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,83,0,0
+1739721764324,97,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721764421,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721764419,97,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,81,0,0
+1739721764500,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,66,0,0
+1739721764516,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721764567,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721764578,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721764631,108,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721764644,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721764740,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721764740,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,83,0,0
+1739721764820,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721764840,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721764883,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721764901,77,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721764951,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721764978,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721765036,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721765062,65,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,52,0,0
+1739721765127,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721765108,88,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,84,0,0
+1739721765196,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721765192,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,69,0,0
+1739721765261,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721765258,105,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,84,0,0
+1739721765339,86,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,67,0,0
+1739721765364,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721765425,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721765438,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721765498,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721765494,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721765565,92,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,76,0,0
+1739721765557,109,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721765657,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,71,0,0
+1739721765666,85,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,73,0,0
+1739721765735,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721765751,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721765800,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721765808,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721765862,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721765873,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721765943,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721765964,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721766032,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721766012,108,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,108,0,0
+1739721766092,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721766120,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721766162,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721766190,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721766252,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721766269,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721766323,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721766341,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721766384,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721766398,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721766457,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721766444,97,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721766541,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721766541,90,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,79,0,0
+1739721766617,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721766632,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721766676,54,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721766703,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721766764,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721766730,108,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721766838,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721766838,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,77,0,0
+1739721766911,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721766926,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721766970,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721766985,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721767044,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721767028,101,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721767129,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721767128,91,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,75,0,0
+1739721767200,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721767219,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721767259,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721767279,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721767317,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,52,0,0
+1739721767348,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721767421,63,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721767404,106,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,91,0,0
+1739721767484,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721767510,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721767542,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721767567,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,50,0,0
+1739721767607,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,50,0,0
+1739721767627,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721767680,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721767706,65,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721767753,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721767771,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721767815,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721767828,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721767879,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721767888,96,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,76,0,0
+1739721767985,65,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721767964,149,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,132,0,0
+1739721768050,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721768114,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721768117,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721768179,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721768190,94,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,63,0,0
+1739721768246,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721768285,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721768325,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721768353,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,62,0,0
+1739721768402,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721768420,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721768464,64,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721768482,94,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,72,0,0
+1739721768529,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721768576,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721768606,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721768647,56,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721768676,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721768703,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721768739,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721768761,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721768801,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721768837,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721768874,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721768906,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721768950,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721768965,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721769012,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721769022,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721769078,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721769098,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721769163,85,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721769176,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,72,0,0
+1739721769251,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721769248,72,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721769320,73,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,70,0,0
+1739721769312,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,61,0,0
+1739721769393,87,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721769395,87,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721769482,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721769480,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721769542,75,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721769558,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721769624,82,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,78,0,0
+1739721769617,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721769706,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721769712,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721769781,82,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721769793,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,70,0,0
+1739721769866,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721769863,74,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,74,0,0
+1739721769937,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721769931,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721770012,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721770012,91,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,76,0,0
+1739721770085,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721770103,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721770146,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721770180,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721770206,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721770245,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721770291,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721770304,110,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,93,0,0
+1739721770361,93,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,89,0,0
+1739721770414,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721770454,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721770484,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721770520,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721770543,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,75,0,0
+1739721770599,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721770623,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721770670,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,52,0,0
+1739721770696,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721770727,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721770765,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721770787,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721770830,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721770860,66,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721770890,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721770926,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721770963,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721770989,144,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,122,0,0
+1739721771047,100,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,87,0,0
+1739721771147,72,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721771133,86,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721771219,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721771219,90,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,70,0,0
+1739721771289,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721771309,66,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721771348,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,65,0,0
+1739721771375,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721771416,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,50,0,0
+1739721771436,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721771487,63,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721771499,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721771550,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721771573,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721771614,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721771646,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,60,0,0
+1739721771672,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721771709,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,66,0,0
+1739721771751,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721771779,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721771821,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721771852,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721771880,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721771942,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721772023,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721771923,186,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,182,0,0
+1739721772109,80,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,71,0,0
+1739721772092,104,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,101,0,0
+1739721772196,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721772190,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721772274,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721772258,120,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,91,0,0
+1739721772349,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721772378,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721772423,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721772447,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721772488,76,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721772507,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721772568,109,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721772564,113,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,94,0,0
+1739721772678,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721772678,77,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,72,0,0
+1739721772755,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721772751,71,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721772824,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721772819,92,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721772889,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721772912,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721772961,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721772980,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721773039,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721773042,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,64,0,0
+1739721773102,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721773111,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721773171,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721773189,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,70,0,0
+1739721773255,84,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,67,0,0
+1739721773270,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,69,0,0
+1739721773339,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721773345,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721773402,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721773409,71,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721773481,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721773464,96,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721773560,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721773557,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,77,0,0
+1739721773631,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721773637,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721773698,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,59,0,0
+1739721773703,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,68,0,0
+1739721773767,94,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721773784,77,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721773861,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,55,0,0
+1739721773861,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721773933,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,58,0,0
+1739721773937,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721774000,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721774003,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721774062,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721774081,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721774135,61,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721774153,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721774196,62,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721774213,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721774258,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721774281,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721774318,70,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,51,0,0
+1739721774356,68,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,53,0,0
+1739721774388,100,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,77,0,0
+1739721774424,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,65,0,0
+1739721774489,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721774491,66,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721774549,82,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721774557,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,67,0,0
+1739721774640,78,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721774631,103,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721774718,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721774734,75,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721774785,82,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,75,0,0
+1739721774810,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721774871,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721774868,78,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721774947,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721774930,92,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721775022,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721775021,79,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,78,0,0
+1739721775094,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721775100,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,61,0,0
+1739721775161,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721775165,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,66,0,0
+1739721775223,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721775249,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721775297,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,62,0,0
+1739721775318,81,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,75,0,0
+1739721775369,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,54,0,0
+1739721775399,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,57,0,0
+1739721775429,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721775461,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721775487,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721775559,72,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721775546,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,85,0,0
+1739721775632,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721775645,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721775696,62,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721775705,60,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721775765,74,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,58,0,0
+1739721775758,102,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,82,0,0
+1739721775840,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,64,0,0
+1739721775860,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,85,0,0
+1739721775920,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,72,0,0
+1739721775959,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721775996,74,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721776020,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721776077,73,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721776070,98,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,81,0,0
+1739721776151,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,74,0,0
+1739721776168,89,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,72,0,0
+1739721776232,76,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721776258,69,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721776309,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721776327,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,63,0,0
+1739721776366,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721776396,95,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,72,0,0
+1739721776444,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,68,0,0
+1739721776491,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721776528,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721776564,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721776592,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,53,0,0
+1739721776624,68,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,67,0,0
+1739721776650,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,60,0,0
+1739721776692,79,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,65,0,0
+1739721776730,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721776771,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721776806,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721776850,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721776867,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721776910,71,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721776932,83,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,59,0,0
+1739721776982,85,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721777016,93,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721777067,84,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,72,0,0
+1739721777110,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,51,0,0
+1739721777152,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721777169,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721777216,65,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,58,0,0
+1739721777228,81,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,64,0,0
+1739721777281,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,53,0,0
+1739721777309,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,59,0,0
+1739721777361,79,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,56,0,0
+1739721777379,63,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,61,0,0
+1739721777440,66,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721777506,61,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721777443,152,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,148,0,0
+1739721777568,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721777595,93,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,69,0,0
+1739721777661,73,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,60,0,0
+1739721777688,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,63,0,0
+1739721777735,59,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,53,0,0
+1739721777763,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721777794,63,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,56,0,0
+1739721777828,57,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,55,0,0
+1739721777856,110,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,73,0,0
+1739721777885,124,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,85,0,0
+1739721777966,107,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,86,0,0
+1739721778009,99,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721778074,80,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,67,0,0
+1739721778108,100,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,91,0,0
+1739721778154,115,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,105,0,0
+1739721778270,138,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,97,0,0
+1739721778408,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,54,0,0
+1739721778479,65,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721778545,75,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,74,0,0
+1739721778209,446,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,123,0,0
+1739721778620,77,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721778655,72,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721778697,74,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721778727,76,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,57,0,0
+1739721778771,64,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,64,0,0
+1739721778803,58,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,56,0,0
+1739721778861,58,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,52,0,0
+1739721778835,120,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,114,0,0
+1739721778919,80,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,54,0,0
+1739721778955,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,55,0,0
+1739721778999,69,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,50,0,0
+1739721779030,83,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,69,0,0
+1739721779068,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721779113,84,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,63,0,0
+1739721779129,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,68,0,0
+1739721779197,59,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,54,0,0
+1739721779199,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721779257,75,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,57,0,0
+1739721779287,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,51,0,0
+1739721779332,70,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721779360,57,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,57,0,0
+1739721779402,61,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,59,0,0
+1739721779417,54,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,51,0,0
+1739721779463,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,62,0,0
+1739721779471,84,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,2,2,https://mindmajix.com/,62,0,0
+1739721779533,88,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,56,0,0
+1739721779555,80,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,61,0,0
+1739721779621,81,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,58,0,0
+1739721779635,73,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,71,0,0
+1739721779702,60,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,55,0,0
+1739721779763,69,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,2,2,https://mindmajix.com/blog,60,0,0
+1739721779708,126,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,125,0,0
+1739721779833,100,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,80,0,0
+1739721779834,110,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,61,0,0

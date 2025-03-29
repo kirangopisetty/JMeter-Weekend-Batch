@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1742134237038,271,JDBC Request-Select query,200,OK,Thread Group 1-2,text,true,,1468,0,4,4,null,269,0,258
+1742134237232,77,JDBC Request-Select query,200,OK,Thread Group 1-4,text,true,,1468,0,4,4,null,75,0,64
+1742134236932,377,JDBC Request-Select query,200,OK,Thread Group 1-1,text,true,,1468,0,4,4,null,375,0,364
+1742134237130,179,JDBC Request-Select query,200,OK,Thread Group 1-3,text,true,,1468,0,4,4,null,177,0,166
+1742134237311,39,JDBC Request-Insert query,200,OK,Thread Group 1-2,text,true,,9,0,5,5,null,39,0,0
+1742134237311,41,JDBC Request-Insert query,200,OK,Thread Group 1-3,text,true,,9,0,5,5,null,41,0,0
+1742134237311,41,JDBC Request-Insert query,200,OK,Thread Group 1-1,text,true,,9,0,5,5,null,41,0,0
+1742134237311,42,JDBC Request-Insert query,200,OK,Thread Group 1-4,text,true,,9,0,5,5,null,42,0,0
+1742134237351,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-2,text,true,,1483,0,5,5,null,1,0,0
+1742134237353,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-3,text,true,,1528,0,5,5,null,1,0,0
+1742134237353,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-4,text,true,,1528,0,5,5,null,2,0,0
+1742134237353,3,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-1,text,true,,1528,0,5,5,null,3,0,0
+1742134237328,30,JDBC Request-Select query,200,OK,Thread Group 1-5,text,true,,1528,0,5,5,null,29,0,28
+1742134237354,8,JDBC Request-Update query,200,OK,Thread Group 1-2,text,true,,9,0,5,5,null,7,0,0
+1742134237362,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-2,text,true,,1552,0,5,5,null,1,0,0
+1742134237355,11,JDBC Request-Update query,200,OK,Thread Group 1-3,text,true,,9,0,5,5,null,11,0,0
+1742134237358,8,JDBC Request-Insert query,200,OK,Thread Group 1-5,text,true,,9,0,5,5,null,8,0,0
+1742134237356,10,JDBC Request-Update query,200,OK,Thread Group 1-4,text,true,,9,0,5,5,null,10,0,0
+1742134237357,10,JDBC Request-Update query,200,OK,Thread Group 1-1,text,true,,9,0,5,5,null,10,0,0
+1742134237367,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-1,text,true,,1567,0,5,5,null,1,0,0
+1742134237367,2,JDBC Request-Select query after Update action,200,OK,Thread Group 1-3,text,true,,1567,0,5,5,null,1,0,0
+1742134237367,2,JDBC Request-Select query after Update action,200,OK,Thread Group 1-4,text,true,,1567,0,5,5,null,1,0,0
+1742134237367,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-5,text,true,,1567,0,5,5,null,1,0,0
+1742134237368,17,JDBC Request-Delete query,200,OK,Thread Group 1-1,text,true,,9,0,5,5,null,17,0,0
+1742134237369,16,JDBC Request-Delete query,200,OK,Thread Group 1-3,text,true,,9,0,5,5,null,16,0,0
+1742134237364,21,JDBC Request-Delete query,200,OK,Thread Group 1-2,text,true,,9,0,5,5,null,21,0,0
+1742134237369,17,JDBC Request-Delete query,200,OK,Thread Group 1-4,text,true,,9,0,5,5,null,17,0,0
+1742134237369,17,JDBC Request-Update query,200,OK,Thread Group 1-5,text,true,,9,0,5,5,null,17,0,0
+1742134237386,2,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-3,text,true,,1510,0,5,5,null,1,0,0
+1742134237386,2,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-1,text,true,,1510,0,5,5,null,1,0,0
+1742134237386,2,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-4,text,true,,1510,0,5,5,null,1,0,0
+1742134237386,2,JDBC Request-Select query after Update action,200,OK,Thread Group 1-5,text,true,,1510,0,5,5,null,2,0,0
+1742134237386,3,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-2,text,true,,1510,0,2,2,null,1,0,0
+1742134237389,1,JDBC Request-Delete query,200,OK,Thread Group 1-5,text,true,,9,0,1,1,null,1,0,0
+1742134237390,1,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-5,text,true,,1510,0,1,1,null,1,0,0
+1742134237430,26,JDBC Request-Select query,200,OK,Thread Group 1-6,text,true,,1510,0,1,1,null,25,0,25
+1742134237456,5,JDBC Request-Insert query,200,OK,Thread Group 1-6,text,true,,9,0,1,1,null,5,0,0
+1742134237462,1,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-6,text,true,,1525,0,1,1,null,0,0,0
+1742134237463,1,JDBC Request-Update query,200,OK,Thread Group 1-6,text,true,,9,0,1,1,null,0,0,0
+1742134237464,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-6,text,true,,1525,0,1,1,null,0,0,0
+1742134237465,0,JDBC Request-Delete query,200,OK,Thread Group 1-6,text,true,,9,0,1,1,null,0,0,0
+1742134237465,1,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-6,text,true,,1525,0,1,1,null,1,0,0
+1742134237532,43,JDBC Request-Select query,200,OK,Thread Group 1-7,text,true,,1525,0,1,1,null,43,0,41
+1742134237575,7,JDBC Request-Insert query,200,OK,Thread Group 1-7,text,true,,9,0,1,1,null,6,0,0
+1742134237582,1,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-7,text,true,,1540,0,1,1,null,1,0,0
+1742134237583,2,JDBC Request-Update query,200,OK,Thread Group 1-7,text,true,,9,0,1,1,null,1,0,1
+1742134237585,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-7,text,true,,1540,0,1,1,null,1,0,0
+1742134237586,1,JDBC Request-Delete query,200,OK,Thread Group 1-7,text,true,,9,0,1,1,null,1,0,0
+1742134237587,1,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-7,text,true,,1540,0,1,1,null,1,0,0
+1742134237629,24,JDBC Request-Select query,200,OK,Thread Group 1-8,text,true,,1540,0,1,1,null,24,0,23
+1742134237653,6,JDBC Request-Insert query,200,OK,Thread Group 1-8,text,true,,9,0,1,1,null,6,0,0
+1742134237659,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-8,text,true,,1555,0,1,1,null,1,0,0
+1742134237662,2,JDBC Request-Update query,200,OK,Thread Group 1-8,text,true,,9,0,1,1,null,2,0,0
+1742134237665,3,JDBC Request-Select query after Update action,200,OK,Thread Group 1-8,text,true,,1555,0,1,1,null,3,0,0
+1742134237668,2,JDBC Request-Delete query,200,OK,Thread Group 1-8,text,true,,9,0,1,1,null,2,0,0
+1742134237670,2,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-8,text,true,,1555,0,1,1,null,2,0,0
+1742134237729,20,JDBC Request-Select query,200,OK,Thread Group 1-9,text,true,,1555,0,1,1,null,20,0,19
+1742134237749,6,JDBC Request-Insert query,200,OK,Thread Group 1-9,text,true,,9,0,1,1,null,6,0,0
+1742134237755,2,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-9,text,true,,1570,0,1,1,null,2,0,0
+1742134237758,1,JDBC Request-Update query,200,OK,Thread Group 1-9,text,true,,9,0,1,1,null,1,0,0
+1742134237760,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-9,text,true,,1570,0,1,1,null,1,0,0
+1742134237761,1,JDBC Request-Delete query,200,OK,Thread Group 1-9,text,true,,9,0,1,1,null,1,0,0
+1742134237762,1,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-9,text,true,,1570,0,1,1,null,1,0,0
+1742134237830,28,JDBC Request-Select query,200,OK,Thread Group 1-10,text,true,,1570,0,1,1,null,28,0,27
+1742134237859,5,JDBC Request-Insert query,200,OK,Thread Group 1-10,text,true,,9,0,1,1,null,5,0,0
+1742134237865,1,JDBC Request-Select query after Insert action,200,OK,Thread Group 1-10,text,true,,1585,0,1,1,null,1,0,0
+1742134237866,1,JDBC Request-Update query,200,OK,Thread Group 1-10,text,true,,9,0,1,1,null,1,0,0
+1742134237867,1,JDBC Request-Select query after Update action,200,OK,Thread Group 1-10,text,true,,1585,0,1,1,null,1,0,0
+1742134237868,1,JDBC Request-Delete query,200,OK,Thread Group 1-10,text,true,,9,0,1,1,null,1,0,0
+1742134237869,1,JDBC Request-Select query after Delete action,200,OK,Thread Group 1-10,text,true,,1585,0,1,1,null,0,0,0

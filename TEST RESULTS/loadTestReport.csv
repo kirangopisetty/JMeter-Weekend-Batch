@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739720036257,472,USER VISITS HOME PAGE,200,OK,Thread Group 1-1,text,true,,155311,116,1,1,https://mindmajix.com/,409,0,94
+1739720036730,95,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-1,text,true,,124602,134,2,2,https://mindmajix.com/corporate-training,75,0,0
+1739720036826,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-1,text,true,,56961,130,2,2,https://mindmajix.com/on-job-support,72,0,0
+1739720036768,195,USER VISITS HOME PAGE,200,OK,Thread Group 1-2,text,true,,155311,116,2,2,https://mindmajix.com/,137,0,79
+1739720036902,84,USER CLICKS ON BLOG,200,OK,Thread Group 1-1,text,true,,58517,120,2,2,https://mindmajix.com/blog,71,0,0
+1739720036963,93,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-2,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,68,0,0
+1739720037057,75,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-2,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,67,0,0
+1739720037132,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-2,text,true,,58517,120,1,1,https://mindmajix.com/blog,69,0,0
+1739720037276,209,USER VISITS HOME PAGE,200,OK,Thread Group 1-3,text,true,,155311,116,1,1,https://mindmajix.com/,156,0,87
+1739720037486,94,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-3,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,70,0,0
+1739720037580,67,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-3,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,65,0,0
+1739720037647,67,USER CLICKS ON BLOG,200,OK,Thread Group 1-3,text,true,,58517,120,1,1,https://mindmajix.com/blog,62,0,0
+1739720037756,193,USER VISITS HOME PAGE,200,OK,Thread Group 1-4,text,true,,155311,116,1,1,https://mindmajix.com/,144,0,74
+1739720037950,71,USER CLICKS ON CORPORATE TRAINING,200,OK,Thread Group 1-4,text,true,,124602,134,1,1,https://mindmajix.com/corporate-training,65,0,0
+1739720038022,70,USER CLICKS ON-JOB SUPPORT,200,OK,Thread Group 1-4,text,true,,56961,130,1,1,https://mindmajix.com/on-job-support,68,0,0
+1739720038093,70,USER CLICKS ON BLOG,200,OK,Thread Group 1-4,text,true,,58517,120,1,1,https://mindmajix.com/blog,69,0,0

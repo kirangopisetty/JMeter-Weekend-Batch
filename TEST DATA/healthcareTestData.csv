@@ -1,0 +1,11 @@
+﻿username,password,hospital_readmission,comment,programs,facility,visit_date
+John Doe,ThisIsNotAPassword,Yes,Fever profile checkup,Medicare,Tokyo CURA Healthcare Center,10-03-25
+John Doe,ThisIsNotAPassword,No,Cough & Cold checkup,Medicaid,Hongkong CURA Healthcare Center,11-03-25
+John Doe,ThisIsNotAPassword,Yes,Vaccination,None,Seoul CURA Healthcare Center,12-03-25
+John Doe,ThisIsNotAPassword,No,Marketing,Medicare,Tokyo CURA Healthcare Center,13/03/2025
+John Doe,ThisIsNotAPassword,Yes,2nd opinion,Medicaid,Hongkong CURA Healthcare Center,14/03/2025
+John Doe,ThisIsNotAPassword,No,Bodpains,None,Seoul CURA Healthcare Center,15/03/2025
+John Doe,ThisIsNotAPassword,Yes,Surgery,Medicare,Tokyo CURA Healthcare Center,16/03/2025
+John Doe,ThisIsNotAPassword,No,"BP, Sugar checkup",Medicaid,Hongkong CURA Healthcare Center,17/03/2025
+John Doe,ThisIsNotAPassword,Yes,Consultation,None,Seoul CURA Healthcare Center,18/03/2025
+John Doe,ThisIsNotAPassword,No,Diabetics checkup,Medicare,Hongkong CURA Healthcare Center,19/03/2025
